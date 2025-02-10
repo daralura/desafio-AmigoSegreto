@@ -86,3 +86,15 @@ es un estándar que sirve para definir la estructura, el diseño y el contenido 
 #JavaScript
 es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas. 
 
+
+# estructura del proyecto
+
+# amigo -secreto   
+carpeta
+# index.html   
+arcivo principal de la aplicacion
+# styles.css
+archivo de estilos 
+# README.md    
+documentacion del proyecto 
+
