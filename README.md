@@ -5,7 +5,7 @@ una aplicación que permita a los usuarios ingresar nombres de amigos en una lis
 ## Instalación
 
 1. Clona el repositorio:  
-   `git clone https://github.com/daralura/desafio-AmigoSegreto.git
+   git clone https://github.com/daralura/desafio-AmigoSegreto.git
 
 ## Uso de la aplicacion 
 
@@ -15,7 +15,7 @@ una aplicación que permita a los usuarios ingresar nombres de amigos en una lis
 
 3. haz clic "sortearamigo" para selecioinar un nombre de la azar
 
-Luego, abre tu navegador y visita  https://daralura.github.io/desafio-AmigoSegreto/
+ abre tu navegador y visita  https://daralura.github.io/desafio-AmigoSegreto/
 
 
  
